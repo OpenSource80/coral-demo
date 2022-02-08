@@ -29,13 +29,13 @@ demonstrate the functionality of Coral.
     <source id="mp4" src="video/demo3.mp4" type="video/mp4">
   </video>
 
-4. Different-ingress, Consistent, Loop-free Reachability
+4. Demo-4: Different-ingress, Consistent, Loop-free Reachability
 
   <video id="video" controls="" preload="none" poster="poster" width="100%">
     <source id="mp4" src="video/demo4.mp4" type="video/mp4">
   </video>
 
-5. All-shortest-path Availability
+5. Demo-5: All-shortest-path Availability
 
   <video id="video" controls="" preload="none" poster="poster" width="100%">
     <source id="mp4" src="video/demo5.mp4" type="video/mp4">
