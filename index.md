@@ -11,31 +11,31 @@ demonstrate the functionality of Coral.
 
 ## Demo
 
-Demo-1: Loop-free, Waypoint Reachability
+1. Demo-1: Loop-free, Waypoint Reachability
 
 <video id="video" controls="" preload="none" poster="poster" width="100%">
   <source id="mp4" src="video/demo1.mp4" type="video/mp4">
 </video>
 
-Demo-2: Loop-free Multicast
+2. Demo-2: Loop-free Multicast
 
 <video id="video" controls="" preload="none" poster="poster" width="100%">
   <source id="mp4" src="video/demo2.mp4" type="video/mp4">
 </video>
 
-Demo-3: Loop-free Anycast
+3. Demo-3: Loop-free Anycast
 
 <video id="video" controls="" preload="none" poster="poster" width="100%">
   <source id="mp4" src="video/demo3.mp4" type="video/mp4">
 </video>
 
-Different-ingress, Consistent, Loop-free Reachability
+4. Different-ingress, Consistent, Loop-free Reachability
 
 <video id="video" controls="" preload="none" poster="poster" width="100%">
   <source id="mp4" src="video/demo4.mp4" type="video/mp4">
 </video>
 
-All-shortest-path Availability
+5. All-shortest-path Availability
 
 <video id="video" controls="" preload="none" poster="poster" width="100%">
   <source id="mp4" src="video/demo5.mp4" type="video/mp4">
