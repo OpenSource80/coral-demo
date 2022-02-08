@@ -17,25 +17,25 @@ demonstrate the functionality of Coral.
     <source id="mp4" src="video/demo1.mp4" type="video/mp4">
   </video>
 
-2. Demo-2: Loop-free Multicast
+1. Demo-2: Loop-free Multicast
 
   <video id="video" controls="" preload="none" poster="poster" width="100%">
     <source id="mp4" src="video/demo2.mp4" type="video/mp4">
   </video>
 
-3. Demo-3: Loop-free Anycast
+1. Demo-3: Loop-free Anycast
 
   <video id="video" controls="" preload="none" poster="poster" width="100%">
     <source id="mp4" src="video/demo3.mp4" type="video/mp4">
   </video>
 
-4. Different-ingress, Consistent, Loop-free Reachability
+1. Different-ingress, Consistent, Loop-free Reachability
 
   <video id="video" controls="" preload="none" poster="poster" width="100%">
     <source id="mp4" src="video/demo4.mp4" type="video/mp4">
   </video>
 
-5. All-shortest-path Availability
+1. All-shortest-path Availability
 
   <video id="video" controls="" preload="none" poster="poster" width="100%">
     <source id="mp4" src="video/demo5.mp4" type="video/mp4">
